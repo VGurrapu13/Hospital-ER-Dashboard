@@ -9,4 +9,5 @@ A Power BI dashboard analyzing hospital emergency room data, including patient w
 
 ## Usage
 - Open the CSV file in Power BI or another data tool to explore.
+- Explore and transform the dataset as needed.
 - Use insights to improve ER efficiency and patient care.
